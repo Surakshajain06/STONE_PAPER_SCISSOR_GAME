@@ -5,8 +5,11 @@ The game uses real-time hand gesture recognition via webcam to let the user play
 This is how the interface looks like.
 This is how the interface looks like.
 
-<img src="images/Interface.png" alt="Game Interface" width="600"/>
+<div align="center">
 
+  <img src="images/Interface.png" alt="Alt text" style="max-width:100%; height:auto;" />
+
+</div>
 
 Requirements to run the program
 1. Download all the required modules using pip install -r requirements.txt
