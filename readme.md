@@ -11,7 +11,7 @@ This is how the interface looks like.
 
 <div align="center">
 
-  <img src="images/Interface.png" alt="Interface" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
+  <img src="images\Collage.png" alt="Interface" style="max-width: 100%; height: auto; display: block; margin: 0 auto;" />
 
 </div>
 
