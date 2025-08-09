@@ -1,6 +1,6 @@
 # Stone, Paper, Scissor game with mediapipe, OpenCV
 
-![Self-Project](https://img.shields.io/badge/-Self%20PProject-%23ffbe0b) [Interactive](https://img.shields.io/badge/-Interactive-%23ffbe0b)
+![Self-Project](https://img.shields.io/badge/-Self%20PProject-%23ffbe0b) ![Interactive](https://img.shields.io/badge/-Interactive-%23ffbe0b)
 
 
 The game uses real-time hand gesture recognition via webcam to let the user play Rock-Paper-Scissors against an AI that randomly selects its move. It detects the user’s hand gestures, compares them with the AI’s choice, and displays the outcome live on the video feed. This interactive setup showcases the integration of gesture detection and immediate visual feedback for an engaging user experience.
