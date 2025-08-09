@@ -19,5 +19,5 @@ Requirements to run the program
 1. Download all the required modules using pip install -r requirements.txt
 2. To run the game script create a virtual environment in thge folder and download python 3.10.x
 
-![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-%20KS%20SURAKSHA%20JAIN%20&%20DR.eb5e28?style=flat-square) 
+![Static Badge](https://img.shields.io/badge/Made%20With%20Love%20By-%20KS%20SURAKSHA%20JAIN%20.-%23eb5e28?style=flat-square) 
 
